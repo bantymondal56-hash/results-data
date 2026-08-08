@@ -1,39 +1,14 @@
-[
-  {
-    "date": "07 August 2026",
-    "numbers": ["137","578","356","678","267","569","135","279"],
-    "digits": ["1","0","4","1","5","0","9","8"]
-  },
-  {
-    "date": "06 August 2026",
-    "numbers": [],
-    "digits": []
-  },
-  {
-    "date": "05 August 2026",
-    "numbers": [],
-    "digits": []
-  },
-  {
-    "date": "04 August 2026",
-    "numbers": [],
-    "digits": []
-  },
-  {
-    "
-  {
-    "date": "28 July 2026",
-    "numbers": [],
-    "digits": []
-  },
-  {
-    "date": "27 July 2026",
-    "numbers": [],
-    "digits": []
-  },
-  {
-    "date": "26 July 2026",
-    "numbers": [],
-    "digits": []
-  },
-]
+<div class="result-box">
+  <div class="result-date">06 August 2026</div>
+
+  <table class="result-table">
+    <tr>
+      <td>111</td><td>222</td><td>333</td><td>444</td>
+      <td>555</td><td>666</td><td>777</td><td>888</td>
+    </tr>
+    <tr>
+      <td>1</td><td>2</td><td>3</td><td>4</td>
+      <td>5</td><td>6</td><td>7</td><td>8</td>
+    </tr>
+  </table>
+</div>
